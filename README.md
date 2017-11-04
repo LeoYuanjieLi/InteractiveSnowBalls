@@ -27,3 +27,5 @@ Use 2 for loops to check every Jitter's distance and check whether to display th
 ### Feature 5 - Moving nodes.
 
 5.1 Create moving modes that connects to the local (but not each other! It will be too many lines!)
+
+!(https://raw.githubusercontent.com/LeoYuanjieLi/InteractiveSnowBalls/master/imgs/Screenshot%202017-11-04%2011.53.49.png)
