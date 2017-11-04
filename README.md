@@ -28,4 +28,6 @@ Use 2 for loops to check every Jitter's distance and check whether to display th
 
 5.1 Create moving modes that connects to the local (but not each other! It will be too many lines!)
 
-!(https://raw.githubusercontent.com/LeoYuanjieLi/InteractiveSnowBalls/master/imgs/Screenshot%202017-11-04%2011.53.49.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeoYuanjieLi/InteractiveSnowBalls/master/imgs/Screenshot%202017-11-04%2011.53.49.png" width="350"/>
+</p>
