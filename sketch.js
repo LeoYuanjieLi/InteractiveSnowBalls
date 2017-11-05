@@ -34,7 +34,7 @@ function setup() {
 }
 
 function draw() {
-  background(50, 89, 100);
+  background(255,255,255);
   for (i = 0; i < bugs.length; i++) {
     bugs[i].move();
     bugs[i].display();
@@ -98,6 +98,7 @@ function movingJitter(x,y,speedX, speedY) {
 
   this.display = function() {
     ellipse(this.x, this.y, this.diameter, this.diameter);
+    fill(200,200,200)
   }
 };
 
@@ -107,7 +108,7 @@ function Edge(pointA, pointB) {
   this.b = pointB;
   this.display = function (){if(dist(this.a.x, this.a.y, this.b.x, this.b.y) < 150){
     line(this.a.x, this.a.y, this.b.x, this.b.y)
-    stroke(255,255,255)
+    stroke(200,200,200)
     }
 
   }
